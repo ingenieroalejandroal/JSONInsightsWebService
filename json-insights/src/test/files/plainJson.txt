@@ -1,0 +1,1 @@
+{"userType":"admin","creditCardNumber":0,"email":"email@gmail.com","id":123}
