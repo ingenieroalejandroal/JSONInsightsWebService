@@ -1,7 +1,7 @@
 com\waes\WaesTechTestApplication.class
+com\waes\business\service\JSONDiffService.class
 com\waes\data\entity\JsonTracking.class
 com\waes\web\service\WaesTechTestServiceController.class
+com\waes\business\service\utility\CompareJSONsUtil.class
 com\waes\business\service\utility\Constants.class
 com\waes\data\repository\JsonTrackingRepository.class
-com\waes\business\service\JSONDiffService.class
-com\waes\business\service\utility\CompareJSONsUtil.class
